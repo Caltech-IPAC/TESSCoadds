@@ -5,7 +5,7 @@
 The Transiting Exoplanet Sky Survey (TESS) is surveying the sky with four CCD cameras, each with a field of view of 24 degrees and pixel size 21 arcmin. These cameras are aligned to cover the sky in a combined instantaneous field of view of 24 x 96 degrees. The survey observing pattern consists of 26 of these sectors of sky, 13 in each hemisphere, centered near the ecliptic poles. The schematic illustrates the field of view and scan pattern (from Ricker et al. 2015, JATIS, 1, 014003). This has since been modified for Year 2 operations in the Northern hemisphere, to start some sectors at a higher latiutude.
 
 
-<img style="float: right;" src="TESS_notebook_image.png" width =350 height= 350 />
+<img src="TESS_mosaic.png" />
 
 
 TESS acquires approximately 1200 observations ("full frame images, FFIs) of each sector over thirty 30 days  with an observing cadence of 30 minutes, and then moves to the adjacent sector. Thus over two years, TESS accumulates a survey of the sky in both hemispheres.
